@@ -1,0 +1,66 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: plum;
+    font-size: 20px;
+}
+
+header img {
+    border: 3px solid plum;
+    border-radius: 20px;
+}
+
+header a {
+    color: purple;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    color: cadetblue;
+    text-decoration: cadetblue;
+}
+
+footer {
+    background-color: burlywood;
+}
+
+footer p {
+    background-color: rgb(148, 132, 81);
+    color: rgb(116, 25, 9);
+}
+
+nav a {
+    color: rgb(221, 109, 206);
+    text-decoration: none;
+    padding: 45px;
+}
+
+nav{
+    border:2px solid rgb(104, 27, 148);
+    font-size: 20px;
+}
+
+.tim {
+    background-color:pink;
+    border: 3px solid plum;
+    border-radius: 10px;
+}
+
+p {
+    font-size: 20px;
+}
+
+a {
+    font-size: 20px;
+    color: rgb(223, 62, 116);
+}
+
+
+.time {
+    color: palevioletred;
+    text-align: center;
+    font-size: 30px;
+}
